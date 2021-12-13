@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/in/gustavo-keiti-kawamoto-210a9a59/static/css/main.79118667.chunk.css",
-    "main.js": "/in/gustavo-keiti-kawamoto-210a9a59/static/js/main.0264b67b.chunk.js",
-    "main.js.map": "/in/gustavo-keiti-kawamoto-210a9a59/static/js/main.0264b67b.chunk.js.map",
-    "runtime-main.js": "/in/gustavo-keiti-kawamoto-210a9a59/static/js/runtime-main.24294f4b.js",
-    "runtime-main.js.map": "/in/gustavo-keiti-kawamoto-210a9a59/static/js/runtime-main.24294f4b.js.map",
-    "static/js/2.048a3749.chunk.js": "/in/gustavo-keiti-kawamoto-210a9a59/static/js/2.048a3749.chunk.js",
-    "static/js/2.048a3749.chunk.js.map": "/in/gustavo-keiti-kawamoto-210a9a59/static/js/2.048a3749.chunk.js.map",
-    "static/js/3.16777fcd.chunk.js": "/in/gustavo-keiti-kawamoto-210a9a59/static/js/3.16777fcd.chunk.js",
-    "static/js/3.16777fcd.chunk.js.map": "/in/gustavo-keiti-kawamoto-210a9a59/static/js/3.16777fcd.chunk.js.map",
-    "index.html": "/in/gustavo-keiti-kawamoto-210a9a59/index.html",
-    "static/css/main.79118667.chunk.css.map": "/in/gustavo-keiti-kawamoto-210a9a59/static/css/main.79118667.chunk.css.map",
-    "static/js/2.048a3749.chunk.js.LICENSE.txt": "/in/gustavo-keiti-kawamoto-210a9a59/static/js/2.048a3749.chunk.js.LICENSE.txt",
-    "static/media/main.css": "/in/gustavo-keiti-kawamoto-210a9a59/static/media/poppins-semibold-webfont.efc1e4ee.eot",
-    "static/media/logo.6ce24c58.svg": "/in/gustavo-keiti-kawamoto-210a9a59/static/media/logo.6ce24c58.svg"
+    "main.css": "/aula-react-portfolio/static/css/main.b59eb384.chunk.css",
+    "main.js": "/aula-react-portfolio/static/js/main.0264b67b.chunk.js",
+    "main.js.map": "/aula-react-portfolio/static/js/main.0264b67b.chunk.js.map",
+    "runtime-main.js": "/aula-react-portfolio/static/js/runtime-main.74b594ca.js",
+    "runtime-main.js.map": "/aula-react-portfolio/static/js/runtime-main.74b594ca.js.map",
+    "static/js/2.048a3749.chunk.js": "/aula-react-portfolio/static/js/2.048a3749.chunk.js",
+    "static/js/2.048a3749.chunk.js.map": "/aula-react-portfolio/static/js/2.048a3749.chunk.js.map",
+    "static/js/3.16777fcd.chunk.js": "/aula-react-portfolio/static/js/3.16777fcd.chunk.js",
+    "static/js/3.16777fcd.chunk.js.map": "/aula-react-portfolio/static/js/3.16777fcd.chunk.js.map",
+    "index.html": "/aula-react-portfolio/index.html",
+    "static/css/main.b59eb384.chunk.css.map": "/aula-react-portfolio/static/css/main.b59eb384.chunk.css.map",
+    "static/js/2.048a3749.chunk.js.LICENSE.txt": "/aula-react-portfolio/static/js/2.048a3749.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/aula-react-portfolio/static/media/poppins-semibold-webfont.efc1e4ee.eot",
+    "static/media/logo.6ce24c58.svg": "/aula-react-portfolio/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.24294f4b.js",
+    "static/js/runtime-main.74b594ca.js",
     "static/js/2.048a3749.chunk.js",
-    "static/css/main.79118667.chunk.css",
+    "static/css/main.b59eb384.chunk.css",
     "static/js/main.0264b67b.chunk.js"
   ]
 }
